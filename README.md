@@ -6,5 +6,15 @@
 > ## Role
 > ### This program shows CPU and RAM usage by percentage in matplotlib graph
 
-> ## Preview
-> <img src="image/preview.png">
+> ## Usage
+> ### 1. Install Module
+> ### <pre><code>pip install psutil</code></pre>
+> ### <pre><code>pip install matplotlib</code></pre>
+> #### **Or**
+> ### <pre><code>pip install -r requirements.txt</code></pre>
+
+
+
+> ### 2. Run
+> ### <pre><code>python usage_graph.py</code></pre>
+
