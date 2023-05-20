@@ -18,4 +18,4 @@
 > ### 2. Run
 > ### <pre><code>python usage_graph.py</code></pre>
 
-<img src="image/preview.png" />
+<img src="image/preview.png">
