@@ -18,4 +18,5 @@
 > ### 2. Run
 > ### <pre><code>python usage_graph.py</code></pre>
 
-<img src="image/preivew.png">
+> ### Result
+> <img src="image/preivew.png">
