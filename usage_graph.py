@@ -31,6 +31,9 @@ def animate(i):
     plt.title("RAM" + " - " + str(ram_percent) + "%")
     plt.plot(x_val, ram_percentage)
 
+    if len(x_val) % 10 == 0:
+        plt.clf()
+
 
 ani = FuncAnimation(plt.gcf(), animate, interval=100)
 
